@@ -1,3 +1,25 @@
+## 0.9.1
+
+## 0.9.0
+
+ - **FEAT**: add support for the maximum page size of 16 KB for Android (#521).
+
+## 0.9.0-dev.6
+
+ - **FIX**: crash on android with merged platform and UI threads (#483).
+
+## 0.9.0-dev.5
+
+ - Bump "super_native_extensions" to `0.9.0-dev.5`.
+
+## 0.9.0-dev.4
+
+ - **FIX**: widget snapshots not working properly with WASM (#469).
+
+## 0.9.0-dev.3
+
+ - **FIX**: clipboard read error on wasm (#464).
+
 ## 0.9.0-dev.2
 
  - **FIX**: workaround for exception when running in test environment (#458).
